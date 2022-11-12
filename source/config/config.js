@@ -2,8 +2,8 @@ var mysql = require("mysql");
 
 var mysqlConnection = mysql.createConnection({
     host: "localhost",
-    user: "hospitalServer",
-    password: "PCp~>y2363hG{t$~&0_Sq",
+    user: "hospitalServer1",
+    password: "hospitalserver1",
     database: process.env._BD_,
 });
 
